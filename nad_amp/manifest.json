@@ -6,10 +6,12 @@
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://www.home-assistant.io/integrations/nad_amp",
+  "documentation": "https://github.com/timmontague/nad_amp",
+  "issue_tracker": "https://github.com/timmontague/nad_amp",
   "homekit": {},
   "iot_class": "local_push",
   "requirements": [],
   "ssdp": [],
-  "zeroconf": []
+  "zeroconf": [],
+  "version": "0.1.0"
 }
